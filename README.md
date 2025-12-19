@@ -35,3 +35,4 @@
 ## 📫 Connect With Me
 - 📧 Email: suryachoudhury1@gmail.com
 - 🔗 GitHub: https://github.com/SuryaNC123
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surya-narayan-choudhury-899876317/)
