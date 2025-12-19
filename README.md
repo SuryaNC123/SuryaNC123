@@ -32,9 +32,8 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: suryachoudhury1@gmail.com
-- 🔗 GitHub: https://github.com/SuryaNC123
+## 🔗 Connect With Me
+
+- 📧 **Email:** [suryachoudhury1@gmail.com](mailto:suryachoudhury1@gmail.com)
+- 🐙 **GitHub:** https://github.com/SuryaNC123
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> **LinkedIn:** https://www.linkedin.com/in/surya-narayan-choudhury-899876317/
-
-
