@@ -35,4 +35,5 @@
 ## 📫 Connect With Me
 - 📧 Email: suryachoudhury1@gmail.com
 - 🔗 GitHub: https://github.com/SuryaNC123
+- 💼 **LinkedIn:** https://www.linkedin.com/in/surya-narayan-choudhury-899876317/
 
