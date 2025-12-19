@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Surya Narayan Choudhury
 
-<!--
-**SuryaNC123/SuryaNC123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Web Developer with hands-on experience in JavaScript, APIs, and modern UI development  
+🚀 Passionate about building real-world applications and improving problem-solving skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Java, Python  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+### 🔹 Amazon Clone
+- E-commerce UI clone built using modern web technologies
+
+### 🔹 Weather App
+- Real-time weather application using public APIs
+- City-based search and responsive design
+
+### 🔹 Java File Encryptor
+- Java Swing application for file encryption and decryption
+
+---
+
+## 📊 GitHub Activity
+- Actively building and improving projects
+- Focused on clean code and documentation
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: suryachoudhury1@gmail.com
+- 🔗 GitHub: https://github.com/SuryaNC123
