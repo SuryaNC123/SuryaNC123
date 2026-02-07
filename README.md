@@ -1,4 +1,4 @@
-# Hi 👋 I'm Surya Narayan Choudhury
+# Hey there 👋 I am Surya Narayan Choudhury
 
 🎓 Computer Science Student  
 💻 Web Developer with hands-on experience in JavaScript, APIs, and modern UI development  
