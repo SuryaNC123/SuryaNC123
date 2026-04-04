@@ -1,8 +1,8 @@
 # Hey there 👋 I'm Surya Narayan Choudhury
 
 🎓 Computer Science Student
-💻 Developer with hands-on experience in JavaScript, APIs, and building practical applications
-🚀 Passionate about creating real-world projects and continuously improving problem-solving skills
+💻 Developer skilled in building real-world applications using modern technologies
+🚀 Driven by curiosity, problem-solving, and a constant focus on learning and improving as a software engineer
 
 ---
 
