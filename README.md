@@ -14,12 +14,21 @@ HTML • CSS • JavaScript
 **Backend**
 Java • Python • Django
 
+**Databases**
+MySQL • PostgreSQL
+
 **Tools & Platforms**
 Git • GitHub • VS Code
 
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 Fake News Detector
+
+* A machine learning-based web application to analyze and classify news credibility
+* Helps identify whether a news article is real or fake based on trained models
+* Focused on solving real-world misinformation problems using practical implementation
 
 ### 🔹 Process Planning Simulator
 
@@ -32,12 +41,6 @@ Git • GitHub • VS Code
 * A simple and efficient application for tracking daily expenses
 * Allows users to monitor spending habits and manage personal budgets
 * Provides categorized expense tracking and useful financial insights
-
-### 🔹 Java File Encryptor
-
-* Desktop application built using **Java Swing**
-* Enables secure file encryption and decryption
-* Designed to protect sensitive data using encryption techniques
 
 ---
 
