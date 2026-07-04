@@ -1,64 +1,103 @@
-# Hey there 👋 I'm Surya Narayan Choudhury
+<h1 align="center">Hi 👋, I'm Surya Narayan Choudhury</h1>
 
-🎓 Computer Science Student
-💻 Developer skilled in building real-world applications using modern technologies
-🚀 Driven by curiosity, problem-solving, and a constant focus on learning and improving as a software engineer
+<h3 align="center">
+Computer Science Engineer | Cyber Security Enthusiast | Software Developer
+</h3>
 
----
+<p align="center">
+Passionate about building practical software solutions, exploring cybersecurity concepts, and continuously improving my problem-solving abilities through real-world projects and hands-on learning.
+</p>
 
-## 🛠 Tech Stack
+<hr>
 
-**Frontend**
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+  <li>🎓 Third Year B.Tech student specializing in <b>Computer Science & Engineering (Cyber Security)</b></li>
+  <li>💻 Interested in <b>Software Development, Cyber Security, and System Design</b></li>
+  <li>🚀 Focused on building practical projects and improving development skills</li>
+  <li>📚 Currently strengthening my knowledge in <b>Data Structures & Algorithms</b></li>
+  <li>🎯 Goal: To become a skilled Software Engineer and contribute to impactful technologies</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Frontend</h3>
+<p>
 HTML • CSS • JavaScript
+</p>
 
-**Backend**
+<h3>Backend</h3>
+<p>
 Java • Python • Django
+</p>
 
-**Databases**
+<h3>Database</h3>
+<p>
 MySQL • PostgreSQL
+</p>
 
-**Tools & Platforms**
+<h3>Tools & Platforms</h3>
+<p>
 Git • GitHub • VS Code
+</p>
 
----
+<hr>
 
-## 📌 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 🔹 Fake News Detector
+<h3>🔹 Fake News Detector</h3>
+<ul>
+  <li>Developed a machine learning-based application for detecting misinformation.</li>
+  <li>Analyzes news content and predicts whether information is genuine or fake.</li>
+  <li>Focused on solving real-world problems through practical implementation.</li>
+</ul>
 
-* A machine learning-based web application to analyze and classify news credibility
-* Helps identify whether a news article is real or fake based on trained models
-* Focused on solving real-world misinformation problems using practical implementation
+<h3>🔹 Process Planning Simulator</h3>
+<ul>
+  <li>Built a simulation-based application to visualize process scheduling workflows.</li>
+  <li>Demonstrates resource allocation and optimization concepts.</li>
+  <li>Provides practical insights into system behavior and process management.</li>
+</ul>
 
-### 🔹 Process Planning Simulator
+<h3>🔹 Smart Expense Tracker</h3>
+<ul>
+  <li>Designed an application to manage daily expenses and personal budgets.</li>
+  <li>Supports categorized expense tracking and spending analysis.</li>
+  <li>Focused on simplicity, usability, and financial awareness.</li>
+</ul>
 
-* A simulation-based tool designed to visualize and understand process planning workflows
-* Demonstrates scheduling concepts and efficient resource management
-* Built to explore system behavior and optimization in a practical way
+<hr>
 
-### 🔹 Smart Expense Tracker
+<h2>📈 GitHub Goals</h2>
 
-* A simple and efficient application for tracking daily expenses
-* Allows users to monitor spending habits and manage personal budgets
-* Provides categorized expense tracking and useful financial insights
+<ul>
+  <li>✅ Build meaningful real-world projects</li>
+  <li>✅ Practice Data Structures & Algorithms regularly</li>
+  <li>✅ Write clean, maintainable, and efficient code</li>
+  <li>✅ Continuously learn new technologies and development practices</li>
+</ul>
 
----
+<hr>
 
-## 📊 GitHub Activity
+<h2>🤝 Connect With Me</h2>
 
-* Regularly building and experimenting with new projects
-* Focused on writing clean, maintainable code
-* Interested in improving system design and problem-solving skills
+<p>
+📧 Email: suryachoudhury1@gmail.com
+</p>
 
----
+<p>
+🐙 GitHub: SuryaNC123
+</p>
 
-## 🔗 Connect With Me
+<p>
+💼 LinkedIn: Surya Narayan Choudhury
+</p>
 
-📧 **Email:**
-https://mail.google.com/mail/?view=cm&fs=1&to=suryachoudhury1@gmail.com
+<hr>
 
-🐙 **GitHub:**
-https://github.com/SuryaNC123
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/surya-narayan-choudhury-899876317/
+<p align="center">
+<i>"Learning, Building, and Improving — One Project at a Time."</i>
+</p>
