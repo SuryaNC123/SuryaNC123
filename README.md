@@ -1,103 +1,135 @@
-<h1 align="center">Hi 👋, I'm Surya Narayan Choudhury</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineer | Cyber Security Enthusiast | Software Developer
-</h3>
+# Hey there 👋 I'm Surya Narayan Choudhury
 
-<p align="center">
-Passionate about building practical software solutions, exploring cybersecurity concepts, and continuously improving my problem-solving abilities through real-world projects and hands-on learning.
-</p>
+### 🎓 Computer Science Student | 💻 Software Developer | 🚀 Lifelong Learner
 
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications;Exploring+Cyber+Security;Always+Learning+and+Improving;Future+Software+Engineer" />
 
-<h2>👨‍💻 About Me</h2>
+</div>
 
-<ul>
-  <li>🎓 Third Year B.Tech student specializing in <b>Computer Science & Engineering (Cyber Security)</b></li>
-  <li>💻 Interested in <b>Software Development, Cyber Security, and System Design</b></li>
-  <li>🚀 Focused on building practical projects and improving development skills</li>
-  <li>📚 Currently strengthening my knowledge in <b>Data Structures & Algorithms</b></li>
-  <li>🎯 Goal: To become a skilled Software Engineer and contribute to impactful technologies</li>
-</ul>
+---
 
-<hr>
+## 👨‍💻 About Me
 
-<h2>🛠️ Tech Stack</h2>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3>Frontend</h3>
+- 🎓 Computer Science Student
+- 💻 Developer skilled in building real-world applications
+- 🚀 Passionate about problem-solving and software engineering
+- 📚 Continuously learning modern technologies and best practices
+- 🎯 Focused on becoming a better developer every day
+
+<br clear="right"/>
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
 <p>
-HTML • CSS • JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<h3>Backend</h3>
+### Backend
 <p>
-Java • Python • Django
+<img src="https://skillicons.dev/icons?i=java,python,django" />
 </p>
 
-<h3>Database</h3>
+### Databases
 <p>
-MySQL • PostgreSQL
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-<h3>Tools & Platforms</h3>
+### Tools & Platforms
 <p>
-Git • GitHub • VS Code
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<hr>
+---
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<h3>🔹 Fake News Detector</h3>
-<ul>
-  <li>Developed a machine learning-based application for detecting misinformation.</li>
-  <li>Analyzes news content and predicts whether information is genuine or fake.</li>
-  <li>Focused on solving real-world problems through practical implementation.</li>
-</ul>
+### 🔹 Fake News Detector
+> Machine learning-based web application to analyze and classify news credibility.
 
-<h3>🔹 Process Planning Simulator</h3>
-<ul>
-  <li>Built a simulation-based application to visualize process scheduling workflows.</li>
-  <li>Demonstrates resource allocation and optimization concepts.</li>
-  <li>Provides practical insights into system behavior and process management.</li>
-</ul>
+✔️ Detects fake and real news using trained ML models  
+✔️ Addresses real-world misinformation challenges  
+✔️ Practical implementation of machine learning concepts
 
-<h3>🔹 Smart Expense Tracker</h3>
-<ul>
-  <li>Designed an application to manage daily expenses and personal budgets.</li>
-  <li>Supports categorized expense tracking and spending analysis.</li>
-  <li>Focused on simplicity, usability, and financial awareness.</li>
-</ul>
+---
 
-<hr>
+### 🔹 Process Planning Simulator
+> Simulation-based application for understanding process workflows.
 
-<h2>📈 GitHub Goals</h2>
+✔️ Visualizes process planning and scheduling  
+✔️ Demonstrates resource management concepts  
+✔️ Explores optimization and system behavior
 
-<ul>
-  <li>✅ Build meaningful real-world projects</li>
-  <li>✅ Practice Data Structures & Algorithms regularly</li>
-  <li>✅ Write clean, maintainable, and efficient code</li>
-  <li>✅ Continuously learn new technologies and development practices</li>
-</ul>
+---
 
-<hr>
+### 🔹 Smart Expense Tracker
+> Personal finance management application.
 
-<h2>🤝 Connect With Me</h2>
+✔️ Tracks daily expenses efficiently  
+✔️ Categorizes spending habits  
+✔️ Helps manage personal budgets with insights
 
-<p>
-📧 Email: suryachoudhury1@gmail.com
-</p>
+---
 
-<p>
-🐙 GitHub: SuryaNC123
-</p>
+## 📊 GitHub Activity
 
-<p>
-💼 LinkedIn: Surya Narayan Choudhury
-</p>
+<div align="center">
 
-<hr>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryaNC123&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-<i>"Learning, Building, and Improving — One Project at a Time."</i>
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaNC123&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaNC123&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building and experimenting with new projects
+- 💡 Writing clean and maintainable code
+- 📚 Improving problem-solving and system design skills
+- ⚡ Exploring software engineering best practices
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="mailto:suryachoudhury1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SuryaNC123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/surya-narayan-choudhury-899876317/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Learning, Building, and Improving — One Project at a Time"
+
+</div>
