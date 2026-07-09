@@ -50,7 +50,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Fake News Detector
+### 🔹 LENSIFY
 > Machine learning-based web application to analyze and classify news credibility.
 
 ✔️ Detects fake and real news using trained ML models  
