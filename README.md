@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋 I'm Surya Narayan Choudhury
+# Hey there 👋 I am Surya Narayan Choudhury
 
 ### 🎓 Computer Science Student | 💻 Software Developer | 🚀 Lifelong Learner
 
