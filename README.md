@@ -35,27 +35,27 @@
 ### 🔹 LENSIFY
 > Machine learning-based web application to analyze and classify news credibility.
 
-✔️ Detects fake and real news using trained ML models  
-✔️ Addresses real-world misinformation challenges  
-✔️ Practical implementation of machine learning concepts
+◆ Detects fake and real news using trained ML models  
+◆ Addresses real-world misinformation challenges  
+◆ Practical implementation of machine learning concepts
 
 ---
 
 ### 🔹 Process Planning Simulator
 > Simulation-based application for understanding process workflows.
 
-✔️ Visualizes process planning and scheduling  
-✔️ Demonstrates resource management concepts  
-✔️ Explores optimization and system behavior
+◆ Visualizes process planning and scheduling  
+◆ Demonstrates resource management concepts  
+◆ Explores optimization and system behavior
 
 ---
 
-### 🔹 Smart Expense Tracker
-> Personal finance management application.
+### 🔹 Network Risk Analyzer
+> Flask-based web application for automated network scanning and risk assessment.
 
-✔️ Tracks daily expenses efficiently  
-✔️ Categorizes spending habits  
-✔️ Helps manage personal budgets with insights
+◆ Scans domains and IP addresses using Nmap  
+◆ Detects open ports and analyzes exposed services  
+◆ Classifies network risks using a rule-based assessment engine
 
 ---
 
