@@ -22,27 +22,12 @@
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack
+## <p align="center">🛠️ Tech Stack</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,django,mysql,postgres,git,github,vscode" />
+</p>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,python,flask,django" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
 ---
 
 ## 🚀 Featured Projects
