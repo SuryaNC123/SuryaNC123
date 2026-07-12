@@ -71,16 +71,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaNC123&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 Building and experimenting with new projects
